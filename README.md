@@ -7,7 +7,6 @@ Edu Vista is a comprehensive educational app designed for Android, built using F
 3. [📸 Screenshots](#-screenshots)
 4. [📚 Dependencies](#-dependencies)
 
----
 ### ✨ Key Features
 
 #### Course Management
