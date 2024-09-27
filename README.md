@@ -6,41 +6,40 @@ Edu Vista is a comprehensive educational app designed for Android, built using F
 2. [📸 Demo](#-demo)
 3. [📸 Screenshots](#-screenshots)
 4. [📚 Dependencies](#-dependencies)
-   --
 
-### ✨ Key Features
+## ✨ Key Features
 
-#### Course Management
+### Course Management
 -   [x] Browse available courses
 -   [x] Search for specific courses
 -   [x] Manage course enrollments
 -   [x] Purchase courses
 -   [x] View purchased courses
 
-#### User Authentication
+### User Authentication
 -   [x] Secure sign-up
 -   [x] Easy login with Firebase Authentication
 
-#### Payment Integration
+### Payment Integration
 -   [x] Smooth and secure payment process with Paymob
 
-#### Content Display
+### Content Display
 -   [x] Embedded video playback
 -   [x] Dynamic content loading
 -   [x] Efficient image caching
 
-#### Customization and UX
+### Customization and UX
 -   [x] Smooth animations and transitions
 -   [x] Responsive UI design
 
 
 
-### 📸 Demo
+## 📸 Demo
 [Edu Vista Demo](https://drive.google.com/drive/u/0/folders/1ctOTkt5xmhGO-bCRY0Cc-EnJ3IhvKti3)
 
 
 
-### 📸 Screenshots
+## 📸 Screenshots
 <!-- Variables -->
 [onboarding]: assets/screenshots/onboarding.jpg 'OnBoarding #1'
 [onboarding2]: assets/screenshots/onboarding2.jpg 'Onboarding #2'
@@ -66,7 +65,7 @@ Edu Vista is a comprehensive educational app designed for Android, built using F
 [my courses]: assets/screenshots/mycourses.jpg 'My Courses'
 [course more]: assets/screenshots/coursemore.jpg 'Course - More'
 
-#### Onboarding and Authentication
+### Onboarding and Authentication
 
 |      OnBoarding #1       |      OnBoarding #2      |      OnBoarding #3      |
 | :---------------: | :-------------: | :---------------: |
@@ -76,19 +75,19 @@ Edu Vista is a comprehensive educational app designed for Android, built using F
 | :---------------------: | :-----------------: | :---------------: |
 | ![OnBoarding #4][onboarding4] | ![Login][login] | ![Sign Up][sign up] |
 
-#### Password Management and Home
+### Password Management and Home
 
 |      Reset Password #1       |      Reset Password #2       |      Home       |
 | :---------------: | :---------------: | :---------------: |
 | ![Reset Password #1][reset password] | ![Reset Password #2][reset password2] | ![Home][home] |
 
-#### Profile and Search
+### Profile and Search
 
 |        Search        |       Profile       |      Edit Profile      |
 | :---------------------: | :-----------------: | :---------------: |
 | ![Search][search] | ![Profile][profile] | ![Edit Profile][edit profile] |
 
-#### Course and Cart Management
+### Course and Cart Management
 
 |      Category Courses #1       |      Category Courses #2       |      Cart       |
 | :---------------: | :---------------: | :---------------: |
@@ -98,7 +97,7 @@ Edu Vista is a comprehensive educational app designed for Android, built using F
 | :---------------------: | :-----------------: | :---------------: |
 | ![Cart Error][cart error] | ![Paymob][paymob] | ![Bought Courses][bought courses] |
 
-#### Course Content and Completion
+### Course Content and Completion
 
 |      My Courses       |      Course       |      Video       |
 | :---------------: | :---------------: | :---------------: |
@@ -110,7 +109,7 @@ Edu Vista is a comprehensive educational app designed for Android, built using F
 
 
 
-### 📚 Dependencies
+## 📚 Dependencies
 
 | Name                                                                                  | Version       | Description                                                                                                                                                              |
 | ------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
