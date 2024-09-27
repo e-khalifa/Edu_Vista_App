@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645815304834-4814a081q0m0qu01vded7bf33mh878us.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645815304834-4814a081q0m0qu01vded7bf33mh878us</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOTWqHsl9evX9MC3BW1kPo7VUWULCs9-M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645815304834</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.eduVista</string>
+	<key>PROJECT_ID</key>
+	<string>edu-vista-e23</string>
+	<key>STORAGE_BUCKET</key>
+	<string>edu-vista-e23.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645815304834:ios:eec514eead51c5dff8ea9b</string>
+</dict>
+</plist>
