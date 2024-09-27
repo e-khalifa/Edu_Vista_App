@@ -2,9 +2,9 @@
 
 Edu Vista is a comprehensive educational app designed for Android, built using Flutter. It offers a range of features to enhance the learning experience. The app leverages BLoC for efficient state management and Firebase for backend services, ensuring a robust and scalable platform.
 
---
 
 ### Table of Contents
+--
 1. [✨ Key Features](#-key-features)
 2. [📸 Demo](#-demo)
 3. [📸 Screenshots](#-screenshots)
